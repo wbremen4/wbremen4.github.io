@@ -1,0 +1,10 @@
+body {
+  background-color: #0d82ff;
+}
+img {
+  width: 700px;
+}
+li:hover {
+  font-size: 200%;
+  color: orange;
+}
